@@ -5,7 +5,7 @@ Common
     font-family: "monospace","sans-serif";
 }
 .font-primary{
-    color: #00ABAE
+    color: #1606f1
 }
 
 .title-icon{
@@ -21,7 +21,7 @@ h2{
     margin-bottom: 20px;
 }
 a .font-black{
-    color: #000 !important;
+    color: rgb(52, 60, 223) !important;
 }
 
 .hrline{
@@ -52,13 +52,13 @@ About
 
 #about .vocation{
     font-size: 17px;
-    color: #A8A8AE;
+    color: #2727ee;
     margin-bottom: 10px;
 }
 
 #about .skills{
     font-size: 14px;
-    color: #00A8AE;
+    color: #1154f0;
     margin-bottom: 10px;
 }
 
